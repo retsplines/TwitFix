@@ -1,4 +1,2 @@
-Flask
 youtube_dl
-pymongo
 twitter

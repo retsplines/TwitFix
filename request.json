@@ -1,0 +1,47 @@
+{
+    version: "2.0",
+    routeKey: "$default",
+    rawPath: "/crossrufus1/status/1484837100226691072",
+    rawQueryString: "",
+    headers: {
+    accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    accept-encoding: "gzip, deflate, br",
+    accept-language: "en-GB,en;q=0.9,en-US;q=0.8,it;q=0.7",
+    cache-control: "max-age=0",
+    content-length: "0",
+    dnt: "1",
+    host: "5h2zsa0f77.execute-api.eu-west-1.amazonaws.com",
+    sec-ch-ua: "" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97"",
+    sec-ch-ua-mobile: "?0",
+    sec-ch-ua-platform: ""macOS"",
+    sec-fetch-dest: "document",
+    sec-fetch-mode: "navigate",
+    sec-fetch-site: "none",
+    sec-fetch-user: "?1",
+    upgrade-insecure-requests: "1",
+    user-agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36",
+    x-amzn-trace-id: "Root=1-61ef4145-5490b9cd4966da037cfcf77b",
+    x-forwarded-for: "86.130.67.117",
+    x-forwarded-port: "443",
+    x-forwarded-proto: "https"
+    },
+    requestContext: {
+    accountId: "176504227307",
+    apiId: "5h2zsa0f77",
+    domainName: "5h2zsa0f77.execute-api.eu-west-1.amazonaws.com",
+    domainPrefix: "5h2zsa0f77",
+    http: {
+    method: "GET",
+    path: "/crossrufus1/status/1484837100226691072",
+    protocol: "HTTP/1.1",
+    sourceIp: "86.130.67.117",
+    userAgent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+        },
+    requestId: "Meci3gyvDoEEJBQ=",
+    routeKey: "$default",
+    stage: "$default",
+    time: "25/Jan/2022:00:16:05 +0000",
+    timeEpoch: 1643069765345
+    },
+    isBase64Encoded: false
+}
